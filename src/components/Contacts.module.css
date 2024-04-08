@@ -1,0 +1,14 @@
+.tableHeader:hover {
+    background-color: var(--theme-main-color);
+    color: var(--theme-hover-color);
+    cursor: pointer;
+}
+
+.actionButton {
+    width: 80px;
+}
+
+.contactListContainer {
+    margin: auto;
+    max-width: 800px;
+}

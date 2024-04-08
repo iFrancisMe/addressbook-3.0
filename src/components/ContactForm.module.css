@@ -1,0 +1,17 @@
+.actionButton {
+    width: 80px;
+}
+
+.formContainer {
+    margin: auto;
+
+    input {
+        margin-bottom: 10px;
+    }
+}
+
+.formControls {
+    margin: auto;
+    display: inline-flex;
+    gap: 2em;
+}

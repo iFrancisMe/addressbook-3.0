@@ -1,0 +1,37 @@
+.cardInfo {
+    background-color: cornsilk;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    padding-left: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 1.9em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 3px;
+    border-color: var(--theme-accent-color);
+}
+
+.cardContainer {
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    max-width: 550px;
+}
+
+.cardControls {
+    display: flex;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 30px;
+
+    input {
+        width: 80px;
+        margin: auto;
+        gap: 1em;
+    }
+}
